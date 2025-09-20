@@ -35,5 +35,4 @@ This project provides a backend implementation for a user login form using Node.
 - Log in with your credentials to access the protected dashboard.
 - JWT tokens are used for session management and API authentication.
 
-## License
-MIT
+
